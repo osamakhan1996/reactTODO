@@ -1,0 +1,10 @@
+body{
+  background-color: antiquewhite;
+}
+
+.App{
+  background-color: antiquewhite;
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+}
